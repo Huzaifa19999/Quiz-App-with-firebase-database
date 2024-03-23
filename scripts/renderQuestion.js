@@ -33,7 +33,7 @@ window.goToQuiz = function () {
   window.location.href = "../pages/quiz.html";
 };
 
-window.goTosignIn = function () {
+window.goToadmin = function () {
   window.location.href = "../pages/adminPanel.html";
 };
 
